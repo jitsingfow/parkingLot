@@ -1,7 +1,6 @@
-# Add script to:
+
 # * Install dependencies
-# * Build/Compile
-# * Run Test Suit to validate
+npm i
+
 #
-# After this is run, bin/parking_lot
-# should Just Work.
+# TO run the app: bin/parking_lot
