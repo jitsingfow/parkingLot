@@ -1,0 +1,23 @@
+{
+  "name": "parkinglot",
+  "version": "1.0.0",
+  "description": "Parking lot problem",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha **test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitsingfow/parkingLot.git"
+  },
+  "author": "Nabajit Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitsingfow/parkingLot/issues"
+  },
+  "homepage": "https://github.com/jitsingfow/parkingLot#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
